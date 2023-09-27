@@ -1,0 +1,43 @@
+body {
+    background-color: darkslategray;
+    font-size: large;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.nappalitabla {
+    width: 640px;
+    margin: 0 auto;
+    background-image: url("hatter.jpg");
+}
+
+td, tr {
+    margin: 5px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black
+}
+
+a:hover {
+    text-decoration: none;
+    color: black
+}
+
+li {
+    list-style-type: none
+}
+
+img {
+    border: 1px black sol;
+}
